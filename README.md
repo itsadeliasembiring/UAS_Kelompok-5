@@ -5,11 +5,14 @@ MENGGUNAKAN TIGA METODE SIMILARITY
 
 DISUSUN OLEH:
 Kelompok 5
-
 187231006  |    Maria Shelina Angie
+
 187231010  |    Adelia
-187231011  |    Cokorda Istri Trisna Shanti Maharani P.
+
+187231011  |    Cokorda Istri Trisna Shanti Maharani P
+
 187231017  |    Calista Dian Kemala
+
 187231019  |    Yan Marhendra Putra
 
 PROGRAM STUDI SISTEM INFORMASI
